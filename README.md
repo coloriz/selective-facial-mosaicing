@@ -4,8 +4,8 @@ Selective Facial Mosaicing
 *작성일 : 2019년 7월 15일*
 
 <p align="center">
-    <img src="docs/mcu_footage_mosaic.gif" width="418">
-    <img src="docs/mcu_footage_debug.gif" width="418">
+    <img src="docs/mcu_footage_mosaic.gif" width="416">
+    <img src="docs/mcu_footage_debug.gif" width="416">
     <br>
     <sup>선택적 얼굴 모자이크 데모. 유재석 얼굴 제외하고 모두 블러링 (왼쪽), 알고리즘 디버깅과 시각화. 얼굴 bounding box와 유클리드 거리 표시 (오른쪽)</sup>
 </p>
